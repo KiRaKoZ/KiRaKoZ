@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Boris Kirakosiani</h1>
+<h1 align="left">Hi 👋, I'm BuBa Kirakosiani</h1>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1358/1*gReLR6hZjwyBxHmfLN1AVw.gif">
 
 <h3 align="left">🌍  I am a Front-End Developer based in Georgia, Tbilisi.</h3>
